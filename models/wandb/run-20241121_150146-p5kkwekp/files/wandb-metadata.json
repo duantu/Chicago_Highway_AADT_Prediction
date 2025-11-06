@@ -1,0 +1,31 @@
+{
+  "os": "Linux-6.8.0-48-generic-x86_64-with-glibc2.39",
+  "python": "3.12.3",
+  "startedAt": "2024-11-21T21:01:46.043036Z",
+  "program": "/home/duantu/soft/transportation-2024/notebooks/New_Data.ipynb",
+  "git": {
+    "remote": "https://gitlab.com/hongzhangsun/transportation-2024.git",
+    "commit": "941dc97d770b280120941e202b3638e3af9b8e86"
+  },
+  "email": "duantu97@gmail.com",
+  "root": "/home/duantu/soft/transportation-2024/notebooks",
+  "host": "duantu-ThinkPad-T14s-Gen-3",
+  "username": "duantu",
+  "executable": "/home/duantu/soft/transportation_venv/bin/python3",
+  "codePathLocal": "New_Data.ipynb",
+  "cpu_count": 8,
+  "cpu_count_logical": 16,
+  "disk": {
+    "/": {
+      "total": "502392610816",
+      "used": "202192015360"
+    }
+  },
+  "memory": {
+    "total": "32347926528"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 16
+  }
+}
