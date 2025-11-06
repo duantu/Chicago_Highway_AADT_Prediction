@@ -277,3 +277,8 @@ $RECYCLE.BIN/
 
 # virtual envs
 transportation_venv/
+
+# do not track the live venv dir
+transportation_venv/
+
+transportation_venv/
