@@ -14,3 +14,7 @@ Predicts Annual Average Daily Traffic (AADT) on the Chicago highway network usin
     </td>
   </tr>
 </table>
+
+For a detailed overview of this project, please refer to the slides linked below.
+
+[![Slides Preview](final_presentation.png)](final_presentation.pdf)
