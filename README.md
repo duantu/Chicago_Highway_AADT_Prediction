@@ -5,11 +5,11 @@ Predicts Annual Average Daily Traffic (AADT) on the Chicago highway network usin
 <table>
   <tr>
     <td align="center">
-      <img src="assets/our_method.png" width="420" alt="Model overview"><br>
+      <img src="assets/our_method.png" width="420"><br>
       <sub><b>Model Overview</b></sub>
     </td>
     <td align="center">
-      <img src="assets/traffic_network.png" width="420" alt="Highway network"><br>
+      <img src="assets/traffic_network.png" width="420"><br>
       <sub><b>Chicago Highway Network</b></sub>
     </td>
   </tr>
